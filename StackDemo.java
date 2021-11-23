@@ -10,6 +10,10 @@ public class StackDemo {
 		stack.push(56);
 		
 		stack.show();
+		System.out.println("");
+		stack.pop();
+		
+		stack.show();
 
 	}
 
